@@ -1,4 +1,4 @@
-# 永豐AI GO競賽-攻房戰
+# 永豐AI GO競賽-攻房戰 [第一名解法]
 ## 隊伍：星之卡比
 ### 競賽說明：https://tbrain.trendmicro.com.tw/Competitions/Details/30
 ### 本Repo目錄結構
